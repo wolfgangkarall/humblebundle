@@ -1,2 +1,0 @@
-#!/bin/sh
-"$(dirname "$0")"/humblebundle --"${0##*.}" "canabalt_android_and_pc"
